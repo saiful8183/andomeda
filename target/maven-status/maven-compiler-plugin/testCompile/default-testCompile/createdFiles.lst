@@ -1,0 +1,8 @@
+com/qa/pages/BaseClass.class
+com/qa/utilities/ExcelDataProvider.class
+com/qa/utilities/Helper.class
+com/qa/testCases/ClassicBankTest.class
+com/qa/testCases/TestBanking.class
+com/qa/pages/HomePage.class
+com/qa/utilities/ConfigDataProvider.class
+com/qa/utilities/BrowserFactory.class
